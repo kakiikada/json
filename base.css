@@ -1,0 +1,35 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+html,body{
+  height:100%;
+  width:100%;
+}
+
+.container{
+  width:100%;
+  max-width:1000px;
+  margin:0 auto;
+}
+
+p{
+  font-size:20px;
+}
+
+/*ここまで基本-------------------------------------------------*/
+
+header{
+  height:50px;
+  background-color:orange;
+}
+
+header p{
+  line-height:40px;
+  padding:5px;
+}
+
+header span{
+  float:right;
+}
